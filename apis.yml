@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Transit
-  - Public Transportation
-  - GTFS
   - Government
+  - GTFS
+  - Public Transportation
+  - Transit
 url: >-
   https://raw.githubusercontent.com/api-evangelist/maryland-transit-administration/refs/heads/main/apis.yml
 created: '2025-05-02'
@@ -27,9 +27,9 @@ apis:
       in a standardized format.
     humanURL: https://www.mta.maryland.gov/developer-resources
     tags:
-      - Transit
       - GTFS
       - Public Transportation
+      - Transit
     properties:
       - type: Documentation
         url: https://www.mta.maryland.gov/developer-resources
