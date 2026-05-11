@@ -132,6 +132,13 @@ common:
     url: https://gtfs.org/
   - type: Swiftly Documentation
     url: https://swiftly-inc.stoplight.io/docs/realtime-standalone/
+  - type: Integrations
+    url: https://www.mta.maryland.gov/integrations
+integrations:
+  - name: State of Maryland
+  - name: Maryland Transit Administration
+  - name: 'Governor''s Office'
+  - name: MDOT
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
