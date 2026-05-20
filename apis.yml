@@ -124,6 +124,8 @@ apis:
       - type: GTFS-RT Alerts
         url: https://feeds.mta.maryland.gov/alerts.pb
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mtamaryland
   - type: Portal
     url: https://www.mta.maryland.gov/developer-resources
   - type: Website
