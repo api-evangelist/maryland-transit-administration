@@ -124,6 +124,10 @@ apis:
       - type: GTFS-RT Alerts
         url: https://feeds.mta.maryland.gov/alerts.pb
 common:
+  - type: VulnerabilityDisclosure
+    url: security/maryland-transit-administration-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/maryland-transit-administration-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/mtamaryland
   - type: Portal
@@ -136,6 +140,8 @@ common:
     url: https://swiftly-inc.stoplight.io/docs/realtime-standalone/
   - type: Integrations
     url: https://www.mta.maryland.gov/integrations
+  - type: Blog
+    url: https://www.mta.maryland.gov/articles
 integrations:
   - name: State of Maryland
   - name: Maryland Transit Administration
