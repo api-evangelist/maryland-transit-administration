@@ -34,7 +34,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/maryland-transit-administration/refs/heads/main/apis.yml
 created: '2025-05-02'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: maryland-transit-administration:mta-local-bus-gtfs
     name: MDOT MTA Local Bus GTFS
