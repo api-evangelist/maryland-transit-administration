@@ -147,6 +147,12 @@ apis:
       - type: GTFS-RT Alerts
         url: https://feeds.mta.maryland.gov/alerts.pb
 common:
+  - type: Plans
+    url: plans/maryland-transit-administration-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/maryland-transit-administration-rate-limits.yml
+  - type: FinOps
+    url: finops/maryland-transit-administration-finops.yml
   - type: VulnerabilityDisclosure
     url: security/maryland-transit-administration-vulnerability-disclosure.yml
   - type: DomainSecurity
